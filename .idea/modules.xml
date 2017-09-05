@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NetworkCommunication.iml" filepath="$PROJECT_DIR$/NetworkCommunication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctaskdemo/asynctaskdemo.iml" filepath="$PROJECT_DIR$/asynctaskdemo/asynctaskdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclientcommunication/httpclientcommunication.iml" filepath="$PROJECT_DIR$/httpclientcommunication/httpclientcommunication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpurlconnectiondemo/httpurlconnectiondemo.iml" filepath="$PROJECT_DIR$/httpurlconnectiondemo/httpurlconnectiondemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socketcommunication/socketcommunication.iml" filepath="$PROJECT_DIR$/socketcommunication/socketcommunication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threaddemo/threaddemo.iml" filepath="$PROJECT_DIR$/threaddemo/threaddemo.iml" />
+    </modules>
+  </component>
+</project>

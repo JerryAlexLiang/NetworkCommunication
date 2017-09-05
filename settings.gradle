@@ -1,0 +1,1 @@
+include ':app', ':threaddemo', ':asynctaskdemo', ':httpclientcommunication', ':socketcommunication', ':httpurlconnectiondemo'
