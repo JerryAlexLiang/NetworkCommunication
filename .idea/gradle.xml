@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/multithreadownload" />
             <option value="$PROJECT_DIR$/socketcommunication" />
             <option value="$PROJECT_DIR$/threaddemo" />
+            <option value="$PROJECT_DIR$/xutilsbreakpointdownload" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
