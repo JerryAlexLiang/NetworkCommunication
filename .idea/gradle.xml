@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/asynctaskdemo" />
             <option value="$PROJECT_DIR$/httpclientcommunication" />
             <option value="$PROJECT_DIR$/httpurlconnectiondemo" />
+            <option value="$PROJECT_DIR$/multithreadownload" />
             <option value="$PROJECT_DIR$/socketcommunication" />
             <option value="$PROJECT_DIR$/threaddemo" />
           </set>

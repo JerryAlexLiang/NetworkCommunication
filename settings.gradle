@@ -1,1 +1,1 @@
-include ':app', ':threaddemo', ':asynctaskdemo', ':httpclientcommunication', ':socketcommunication', ':httpurlconnectiondemo'
+include ':app', ':threaddemo', ':asynctaskdemo', ':httpclientcommunication', ':socketcommunication', ':httpurlconnectiondemo', ':multithreadownload'

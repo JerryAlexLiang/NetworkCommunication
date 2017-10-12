@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/asynctaskdemo/asynctaskdemo.iml" filepath="$PROJECT_DIR$/asynctaskdemo/asynctaskdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpclientcommunication/httpclientcommunication.iml" filepath="$PROJECT_DIR$/httpclientcommunication/httpclientcommunication.iml" />
       <module fileurl="file://$PROJECT_DIR$/httpurlconnectiondemo/httpurlconnectiondemo.iml" filepath="$PROJECT_DIR$/httpurlconnectiondemo/httpurlconnectiondemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithreadownload/multithreadownload.iml" filepath="$PROJECT_DIR$/multithreadownload/multithreadownload.iml" />
       <module fileurl="file://$PROJECT_DIR$/socketcommunication/socketcommunication.iml" filepath="$PROJECT_DIR$/socketcommunication/socketcommunication.iml" />
       <module fileurl="file://$PROJECT_DIR$/threaddemo/threaddemo.iml" filepath="$PROJECT_DIR$/threaddemo/threaddemo.iml" />
     </modules>
