@@ -2,5 +2,6 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/btn_clicked_shape" android:state_pressed="true" />
     <item android:drawable="@drawable/btn_normal_shape" android:state_focused="true" />
+    <item android:drawable="@drawable/btn_unfouce_shape" android:state_enabled="false" />
     <item android:drawable="@drawable/btn_normal_shape" />
 </selector>
