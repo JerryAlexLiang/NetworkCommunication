@@ -25,7 +25,7 @@ import java.io.File;
  * 描述: 使用开源框架xUtils - HttpUtils实现多线程断点续传下载
  * xUtils框架的断点续传下载支持后台下载,即把应用切换到后台后,一样会继续下载,但是xUtils还是有一个不足,
  * 就是不支持多任务下载,如果已经有一个任务正在下载,当点击其他的下载按钮时,会暂停正在进行的下载,然后开始自己的下载,
- * 也就是说,xUtils一次只能下载一个任务
+ * 也就是说,xUtils一次只能下载一个任务。
  * 作者: liangyang
  */
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {

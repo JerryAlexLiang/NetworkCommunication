@@ -7,7 +7,11 @@ import android.view.KeyEvent;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
-
+/**
+ * 创建日期：2017/10/13 on 上午9:18
+ * 描述: 首界面
+ * 作者: liangyang
+ */
 public class ItemActivity extends AppCompatActivity implements View.OnClickListener {
 
     @Override

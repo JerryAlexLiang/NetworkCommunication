@@ -25,7 +25,7 @@ import java.io.File;
 /**
  * 创建日期：2017/10/12 on 下午5:26
  * 描述: 使用开源框架xUtils - HttpUtils实现多线程断点续传下载 -> 添加暂停功能
- * 断点续传,肯定少不了暂停下载和继续下载,做到这一点也很简单,只需要设置一个flag即可
+ * 断点续传,肯定少不了暂停下载和继续下载,做到这一点也很简单,只需要设置一个flag即可。
  * 作者: liangyang
  */
 public class Main2Activity extends AppCompatActivity implements View.OnClickListener {
