@@ -1,1 +1,1 @@
-include ':app', ':threaddemo', ':asynctaskdemo', ':httpclientcommunication', ':socketcommunication', ':httpurlconnectiondemo', ':multithreadownload', ':xutilsbreakpointdownload'
+include ':app', ':threaddemo', ':asynctaskdemo', ':httpclientcommunication', ':socketcommunication', ':httpurlconnectiondemo', ':multithreadownload', ':xutilsbreakpointdownload', ':volleydemo', ':volley-master'

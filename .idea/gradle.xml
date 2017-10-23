@@ -15,6 +15,8 @@
             <option value="$PROJECT_DIR$/multithreadownload" />
             <option value="$PROJECT_DIR$/socketcommunication" />
             <option value="$PROJECT_DIR$/threaddemo" />
+            <option value="$PROJECT_DIR$/volley-master" />
+            <option value="$PROJECT_DIR$/volleydemo" />
             <option value="$PROJECT_DIR$/xutilsbreakpointdownload" />
           </set>
         </option>

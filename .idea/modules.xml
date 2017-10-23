@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/multithreadownload/multithreadownload.iml" filepath="$PROJECT_DIR$/multithreadownload/multithreadownload.iml" />
       <module fileurl="file://$PROJECT_DIR$/socketcommunication/socketcommunication.iml" filepath="$PROJECT_DIR$/socketcommunication/socketcommunication.iml" />
       <module fileurl="file://$PROJECT_DIR$/threaddemo/threaddemo.iml" filepath="$PROJECT_DIR$/threaddemo/threaddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volley-master/volley-master.iml" filepath="$PROJECT_DIR$/volley-master/volley-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volleydemo/volleydemo.iml" filepath="$PROJECT_DIR$/volleydemo/volleydemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/xutilsbreakpointdownload/xutilsbreakpointdownload.iml" filepath="$PROJECT_DIR$/xutilsbreakpointdownload/xutilsbreakpointdownload.iml" />
     </modules>
   </component>
