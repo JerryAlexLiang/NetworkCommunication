@@ -4,6 +4,7 @@ import android.app.Application;
 
 import com.android.volley.RequestQueue;
 import com.android.volley.toolbox.Volley;
+import com.example.volleydemo.utils.RequestQueueUtil;
 
 /**
  * 创建日期：2017/10/23 on 下午5:49
@@ -28,6 +29,8 @@ public class MyApplication extends Application {
     public void onCreate() {
         super.onCreate();
         //实例化Volley全局请求队列
-        sRequestQueue = Volley.newRequestQueue(getApplicationContext());
+//        sRequestQueue = Volley.newRequestQueue(getApplicationContext());
+        //在Application中初始化请求队列
+        sRequestQueue = RequestQueueUtil.getRequestQueue(this);
     }
 }

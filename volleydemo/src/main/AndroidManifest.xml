@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.volleydemo">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
 
+    <!--
+    导入SweetAlertDialog时，项目会报Manifest merge failed错误，
+    在Manifest的application中加入tools:replace=”android:icon”即可解决。
+    -->
     <application
-        android:allowBackup="true"
         android:name=".MyApplication"
+        android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
+        android:theme="@style/AppTheme"
+        tools:replace="android:icon">
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,7 +25,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".RequestTestActivity"/>
+        <activity android:name=".RequestTestActivity" />
+        <activity android:name=".VolleyUtilActivity"></activity>
     </application>
 
 </manifest>

@@ -7,23 +7,23 @@
     android:orientation="vertical">
 
     <Button
-        android:id="@+id/button_one"
+        android:id="@+id/test_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/shape_selector_style"
-        android:text="Volley使用方法示例"
-        android:textAllCaps="false"
-        android:textColor="#ffffff" />
-
-    <Button
-        android:id="@+id/button_two"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@drawable/shape_selector_style"
-        android:text="Volley简易封装"
-        android:textAllCaps="false"
         android:layout_marginTop="10dp"
-        android:textColor="#ffffff" />
+        android:background="@drawable/shape_selector_style"
+        android:text="发送请求" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/test_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </ScrollView>
 
 
 </LinearLayout>  

@@ -13,8 +13,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Button buttonOne = (Button) findViewById(R.id.button_one);
+        Button buttonTwo = (Button) findViewById(R.id.button_two);
 
         buttonOne.setOnClickListener(this);
+        buttonTwo.setOnClickListener(this);
     }
 
     @Override
@@ -25,7 +27,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 intent.setClass(MainActivity.this, RequestTestActivity.class);
                 break;
 
-
+            case R.id.button_two:
+                intent.setClass(MainActivity.this, VolleyUtilActivity.class);
+                break;
             default:
                 break;
         }
