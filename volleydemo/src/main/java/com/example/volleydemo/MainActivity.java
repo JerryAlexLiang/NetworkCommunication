@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Intent intent = new Intent();
         switch (v.getId()) {
             case R.id.button_one:
-                intent.setClass(MainActivity.this, StringRequestActivity.class);
+                intent.setClass(MainActivity.this, RequestTestActivity.class);
                 break;
 
 

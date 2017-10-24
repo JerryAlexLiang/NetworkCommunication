@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/shape_selector_style"
-        android:text="Volly使用方法StringRequest"
+        android:text="Volley使用方法示例"
         android:textAllCaps="false"
         android:textColor="#ffffff" />
 
